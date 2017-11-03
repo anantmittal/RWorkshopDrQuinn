@@ -1,1 +1,3 @@
 # RWorkshopDrQuinn
+
+Bayesian in R
